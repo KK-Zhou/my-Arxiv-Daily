@@ -28,7 +28,7 @@ output:
   # 是否包含论文摘要
   include_summary: true
   # 摘要最大长度（字符数）
-  summary_max_length: 200
+  summary_max_length: 250
   
 # Markdown 格式配置
 markdown:
